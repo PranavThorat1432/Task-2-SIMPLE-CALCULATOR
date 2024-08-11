@@ -1,36 +1,45 @@
-Simple Calculator
+# Simple Calculator
+
 Welcome to the Simple Calculator! This console-based program allows you to perform basic arithmetic calculations on two numbers.
 
-How to Use
-Getting Started:
+## How to Use
 
-When you run the program, it will greet you with a welcome message.
-Enter Numbers:
+1. **Getting Started**:
+   - When you run the program, it will greet you with a welcome message.
 
-Enter two numbers when prompted. These numbers can be integers or decimals.
-Choose an Operation:
+2. **Enter Numbers**:
+   - Enter two numbers when prompted. These numbers can be integers or decimals.
 
-Select the operation you want to perform from the options provided: addition (+), subtraction (-), multiplication (*), or division (/).
-View the Result:
+3. **Choose an Operation**:
+   - Select the operation you want to perform from the options provided: addition (+), subtraction (-), multiplication (*), or division (/).
 
-The program will display the result of your chosen operation on the two numbers.
-Error Handling:
+4. **View the Result**:
+   - The program will display the result of your chosen operation on the two numbers.
 
-If you attempt to divide by zero, the program will notify you with an error message.
-Repeat or Exit:
+5. **Error Handling**:
+   - If you attempt to divide by zero, the program will notify you with an error message.
 
-After each calculation, the program will ask if you want to perform another calculation.
-Type 'y' or 'Y' to continue with another calculation, or any other key to exit.
-Example
+6. **Repeat or Exit**:
+   - After each calculation, the program will ask if you want to perform another calculation.
+   - Type 'y' or 'Y' to continue with another calculation, or any other key to exit.
+
+## Example
+
 Welcome to Simple Calculator!!
 
-Enter Two Numbers: 10 5 Enter Operator (+,-,*,/): *
+Enter Two Numbers: 10 5
+Enter Operator (+,-,*,/): *
 
 10 * 5 = 50
 
 Do you want to do more calculations? (y/n): y
-Enter Two Numbers: 25 0 Enter Operator (+,-,*,/): / Error! Divisor is Zero.
+----------------------------------------------
+
+Enter Two Numbers: 25 0
+Enter Operator (+,-,*,/): /
+Error! Divisor is Zero.
 
 Do you want to do more calculations? (y/n): n
 
 ----------------- Thank You! -----------------
+
